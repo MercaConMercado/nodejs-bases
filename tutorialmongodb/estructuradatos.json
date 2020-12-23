@@ -1,0 +1,16 @@
+db.Company.insert([
+    {
+         "name": "Tigo",
+         "city": "Bogotá",
+         "tags": ["Automatizacion","Consultoria"],
+         "phone": 3102112451,
+         "register": new Date()
+    },
+    {
+        "name": "Movistar",
+        "city": "Medellin",
+        "tags": ["Tecnologia","Cañon"],
+        "phone": 3154112154,
+        "register": new Date()
+   }
+])

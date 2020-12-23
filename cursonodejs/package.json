@@ -1,0 +1,18 @@
+{
+  "name": "cursonodejs",
+  "version": "0.0.1",
+  "description": "curso de nodejs",
+  "main": "index1.js",
+  "scripts": {
+    "start": "node index1.js",
+    "servidor": "node index1.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dnaiel mercado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

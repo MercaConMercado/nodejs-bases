@@ -1,0 +1,17 @@
+{
+    "name": "Daniel",
+    "lastname": "Mercado",
+    "age": 25 ,
+    "active": true,
+    "birthdate": new Date("01/12/1996"),
+    "list": [1, 2, "a", [] ],
+    "object": {
+        "company": "aireflex",
+        "sector": "automatizacion",
+        "area": {
+            "manteniment1":1,
+            "manteniment2":2,
+            "manteniment3":3
+        }
+    }
+}
